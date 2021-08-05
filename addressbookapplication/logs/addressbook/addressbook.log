@@ -1,0 +1,192 @@
+2021-08-05T00:11:31.352+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T00:11:32.129+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 20008 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T00:11:32.134+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T00:11:32.134+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T00:11:40.086+1000 INFO Started Application in 8.58 seconds (JVM running for 10.219)
+2021-08-05T00:11:40.090+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T02:13:43.426+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T02:13:44.101+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 25356 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T02:13:44.106+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T02:13:44.106+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T02:13:50.787+1000 INFO Started Application in 7.242 seconds (JVM running for 8.654)
+2021-08-05T02:13:50.792+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T02:44:05.476+1000 INFO Starting AddressBookServiceImplTest using Java 11.0.11 on L99448950 with PID 16252 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T02:44:05.482+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T02:44:05.485+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T02:45:41.073+1000 INFO Starting AddressBookServiceImplTest using Java 11.0.11 on L99448950 with PID 24512 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T02:45:41.078+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T02:45:41.081+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T02:45:44.169+1000 INFO Started AddressBookServiceImplTest in 3.674 seconds (JVM running for 5.982)
+2021-08-05T02:46:47.087+1000 INFO Starting AddressBookServiceImplTest using Java 11.0.11 on L99448950 with PID 18520 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T02:46:47.093+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T02:46:47.096+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T02:46:50.068+1000 INFO Started AddressBookServiceImplTest in 3.531 seconds (JVM running for 5.717)
+2021-08-05T02:54:01.273+1000 INFO Starting AddressBookServiceImplTest using Java 11.0.11 on L99448950 with PID 24768 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T02:54:01.278+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T02:54:01.280+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T04:49:01.834+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 18652 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T04:49:01.838+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T04:49:01.840+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T04:49:06.468+1000 INFO Started AddressBookDAOImplTest in 5.204 seconds (JVM running for 7.918)
+2021-08-05T04:52:51.880+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 12672 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T04:52:51.884+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T04:52:51.886+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T04:52:56.344+1000 INFO Started AddressBookDAOImplTest in 5.054 seconds (JVM running for 7.723)
+2021-08-05T04:55:54.561+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 23116 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T04:55:54.566+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T04:55:54.568+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T04:55:59.025+1000 INFO Started AddressBookDAOImplTest in 5.026 seconds (JVM running for 7.683)
+2021-08-05T05:04:06.376+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 3312 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:04:06.380+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:04:06.382+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:04:11.674+1000 INFO Started ContactEntryDAOImplTest in 5.945 seconds (JVM running for 9.645)
+2021-08-05T05:07:42.274+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 12672 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:07:42.277+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:07:42.280+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:07:47.287+1000 INFO Started AddressBookDAOImplTest in 5.57 seconds (JVM running for 7.903)
+2021-08-05T05:12:42.950+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 284 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:12:42.955+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:12:42.958+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:12:47.789+1000 INFO Started AddressBookDAOImplTest in 5.393 seconds (JVM running for 7.63)
+2021-08-05T05:14:26.860+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T05:14:27.546+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 23988 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:14:27.554+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:14:27.555+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:14:34.487+1000 INFO Started Application in 7.513 seconds (JVM running for 8.943)
+2021-08-05T05:14:34.491+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T05:21:12.874+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T05:21:13.536+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 1168 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:21:13.542+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:21:13.542+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:24:05.221+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T05:24:05.889+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 7456 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T05:24:05.896+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T05:24:05.896+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T05:24:13.102+1000 INFO Started Application in 7.766 seconds (JVM running for 9.185)
+2021-08-05T05:24:13.105+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T09:55:27.954+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 7308 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T09:55:27.959+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T09:55:27.962+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T09:55:34.784+1000 INFO Started AddressBookDAOImplTest in 7.578 seconds (JVM running for 10.507)
+2021-08-05T12:35:30.056+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T12:35:30.765+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 1768 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T12:35:30.771+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T12:35:30.772+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T12:35:38.187+1000 INFO Started Application in 8.015 seconds (JVM running for 9.61)
+2021-08-05T12:35:38.192+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T12:41:07.389+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T12:41:08.107+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 19144 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T12:41:08.112+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T12:41:08.113+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T12:41:15.266+1000 INFO Started Application in 7.75 seconds (JVM running for 9.26)
+2021-08-05T12:41:15.270+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T12:49:53.186+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 10504 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T12:49:53.190+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T12:49:53.192+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T12:49:57.667+1000 INFO Started AddressBookDAOImplTest in 5.032 seconds (JVM running for 7.593)
+2021-08-05T12:50:34.682+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 17636 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T12:50:34.686+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T12:50:34.688+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T12:50:39.530+1000 INFO Started AddressBookDAOImplTest in 5.412 seconds (JVM running for 7.752)
+2021-08-05T13:16:05.893+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 20568 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:16:05.898+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:16:05.901+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:16:11.240+1000 INFO Started AddressBookDAOImplTest in 5.997 seconds (JVM running for 9.001)
+2021-08-05T13:20:31.608+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 10224 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:20:31.613+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:20:31.615+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:20:36.402+1000 INFO Started AddressBookDAOImplTest in 5.406 seconds (JVM running for 8.186)
+2021-08-05T13:40:57.383+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 23848 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:40:57.388+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:40:57.390+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:41:02.290+1000 INFO Started AddressBookDAOImplTest in 5.492 seconds (JVM running for 8.186)
+2021-08-05T13:42:35.653+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 18192 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:42:35.658+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:42:35.661+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:42:40.420+1000 INFO Started AddressBookDAOImplTest in 5.379 seconds (JVM running for 8.018)
+2021-08-05T13:43:48.013+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 22164 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:43:48.018+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:43:48.021+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:43:52.602+1000 INFO Started AddressBookDAOImplTest in 5.193 seconds (JVM running for 7.876)
+2021-08-05T13:45:14.639+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 5356 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:45:14.643+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:45:14.646+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:45:19.282+1000 INFO Started AddressBookDAOImplTest in 5.236 seconds (JVM running for 7.912)
+2021-08-05T13:47:35.192+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 19448 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:47:35.197+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:47:35.200+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:47:39.762+1000 INFO Started AddressBookDAOImplTest in 5.173 seconds (JVM running for 7.801)
+2021-08-05T13:49:36.904+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 24752 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:49:36.909+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:49:36.912+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:49:41.632+1000 INFO Started AddressBookDAOImplTest in 5.344 seconds (JVM running for 7.975)
+2021-08-05T13:51:02.239+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 17180 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:51:02.244+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:51:02.246+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:51:06.933+1000 INFO Started AddressBookDAOImplTest in 5.269 seconds (JVM running for 7.984)
+2021-08-05T13:54:38.514+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 15816 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:54:38.519+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:54:38.521+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:54:43.291+1000 INFO Started ContactEntryDAOImplTest in 5.421 seconds (JVM running for 8.012)
+2021-08-05T13:56:33.837+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 15604 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:56:33.841+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:56:33.843+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:56:38.591+1000 INFO Started ContactEntryDAOImplTest in 5.372 seconds (JVM running for 8.188)
+2021-08-05T13:59:26.603+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 8692 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T13:59:26.609+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T13:59:26.611+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T13:59:31.421+1000 INFO Started ContactEntryDAOImplTest in 5.425 seconds (JVM running for 8.178)
+2021-08-05T14:01:41.508+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 16688 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:01:41.513+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:01:41.516+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:01:46.614+1000 INFO Started ContactEntryDAOImplTest in 5.803 seconds (JVM running for 8.809)
+2021-08-05T14:03:52.978+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 24928 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:03:52.983+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:03:52.986+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:03:58.255+1000 INFO Started ContactEntryDAOImplTest in 5.973 seconds (JVM running for 8.98)
+2021-08-05T14:07:46.260+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 22832 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:07:46.264+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:07:46.266+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:07:50.881+1000 INFO Started ContactEntryDAOImplTest in 5.22 seconds (JVM running for 7.968)
+2021-08-05T14:08:25.829+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 19976 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:08:25.834+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:08:25.837+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:08:30.485+1000 INFO Started ContactEntryDAOImplTest in 5.283 seconds (JVM running for 7.941)
+2021-08-05T14:11:20.482+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 14668 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:11:20.487+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:11:20.490+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:11:25.444+1000 INFO Started ContactEntryDAOImplTest in 5.66 seconds (JVM running for 8.629)
+2021-08-05T14:11:51.986+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 16652 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:11:51.992+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:11:51.994+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:11:56.959+1000 INFO Started ContactEntryDAOImplTest in 5.613 seconds (JVM running for 8.315)
+2021-08-05T14:14:16.493+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 24948 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:14:16.497+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:14:16.500+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:14:21.101+1000 INFO Started ContactEntryDAOImplTest in 5.278 seconds (JVM running for 8.161)
+2021-08-05T14:16:51.707+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 9420 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:16:51.712+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:16:51.714+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:16:56.633+1000 INFO Started ContactEntryDAOImplTest in 5.546 seconds (JVM running for 8.333)
+2021-08-05T14:21:21.504+1000 INFO AddressBookApplication Getting Started ...
+2021-08-05T14:21:22.209+1000 INFO Starting Application using Java 11.0.11 on L99448950 with PID 13208 (C:\iag\eclipse-workspace\addressbookapplication\target\classes started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T14:21:22.215+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T14:21:22.215+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T14:21:29.411+1000 INFO Started Application in 7.79 seconds (JVM running for 9.364)
+2021-08-05T14:21:29.415+1000 INFO AddressBookApplication Started Successfully.
+2021-08-05T15:44:19.056+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 22020 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T15:44:19.062+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T15:44:19.065+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T15:44:24.946+1000 INFO Started AddressBookDAOImplTest in 6.58 seconds (JVM running for 9.751)
+2021-08-05T15:47:49.942+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 5412 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T15:47:49.949+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T15:47:49.952+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T15:47:55.159+1000 INFO Started AddressBookDAOImplTest in 5.788 seconds (JVM running for 8.468)
+2021-08-05T15:49:26.275+1000 INFO Starting ContactEntryDAOImplTest using Java 11.0.11 on L99448950 with PID 4628 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T15:49:26.280+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T15:49:26.282+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T15:49:30.499+1000 INFO Started ContactEntryDAOImplTest in 4.773 seconds (JVM running for 7.566)
+2021-08-05T17:09:06.746+1000 INFO Starting AddressBookDAOImplTest using Java 11.0.11 on L99448950 with PID 10036 (started by s117889 in C:\iag\eclipse-workspace\addressbookapplication)
+2021-08-05T17:09:06.752+1000 DEBUG Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-08-05T17:09:06.755+1000 INFO No active profile set, falling back to default profiles: default
+2021-08-05T17:09:11.941+1000 INFO Started AddressBookDAOImplTest in 5.81 seconds (JVM running for 8.46)

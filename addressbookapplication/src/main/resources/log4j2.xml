@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+	<Properties>
+		<Property name="LOG_PATTERN">%d{yyyy-MM-dd'T'HH:mm:ss.SSSZ} %p %m%n
+		</Property>
+		<Property name="APP_LOG_ROOT">./logs/addressbook</Property>
+	</Properties>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT" follow="true">
+			<PatternLayout pattern="${LOG_PATTERN}" />
+		</Console>
+
+		<!-- AddressBook Application Logging (outputs to addressbook.log) -->
+		<RollingFile name="applicationLog"
+			fileName="${APP_LOG_ROOT}/addressbook.log"
+			filePattern="${APP_LOG_ROOT}/addressbookapp-%d{yyyy-MM-dd}-%i.log">
+			<PatternLayout pattern="${LOG_PATTERN}" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+			</Policies>
+		</RollingFile>
+		<!-- AddressBook Application REST APIs Logging (outputs to restapi.log) -->
+		<RollingFile name="restAPILog"
+			fileName="${APP_LOG_ROOT}/restapi.log"
+			filePattern="${APP_LOG_ROOT}/restapi-%d{yyyy-MM-dd}-%i.log">
+			<PatternLayout pattern="${LOG_PATTERN}" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" />
+			</Policies>
+		</RollingFile>
+	</Appenders>
+
+	<Loggers>
+		<Logger name="au.com.reece.addressbookapplication" level="debug" additivity="false">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="applicationLog" />
+		</Logger>
+		<Logger name="au.com.reece.addressbookapplication.rest" level="debug" additivity="false">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="restAPILog" />
+		</Logger>
+
+		<Root level="debug">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>
